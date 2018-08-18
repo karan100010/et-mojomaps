@@ -1,0 +1,896 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.96822929999999,
+                    29.9129419,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Basti",
+                "address": "Uttarakhand 263634",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Basti\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Basti</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263634 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.912969949999997&lng=79.9693749&fid=0x39a72efe74c71b83:0xb4a6163ad49cad39&q=Basti, Uttarakhand 263634&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9626354,
+                    29.8552682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seri",
+                "address": "Uttarakhand 263640",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Seri\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Seri</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263640 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.853835&lng=79.96340505&fid=0x39a72dccd7e93e59:0x4b131a731069f9b8&q=Seri, Uttarakhand 263640&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9766195,
+                    30.053738,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harkot",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Harkot\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Harkot</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.05389995&lng=79.97795495&fid=0x39a723884abb8e1f:0x4a0365bffeb68bb&q=Harkot, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0171609,
+                    30.0982872,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mikila Khalpata",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Mikila Khalpata\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Mikila Khalpata</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.10137995&lng=80.020125&fid=0x39a7219d557fbd33:0xcf3c3204a457b3f5&q=Mikila Khalpata, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0031833,
+                    30.1400835,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jhuni",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Jhuni\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Jhuni</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.136915049999995&lng=80.00302489999999&fid=0x39a72204819c6787:0xbc0ef2c73e91880a&q=Jhuni, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8604831,
+                    30.1205127,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Badiyakot",
+                "address": "Uttarakhand 263632",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Badiyakot\" src=\"//lh6.googleusercontent.com/-fBukYF8yzd4/WQgsQFTylkI/AAAAAAAABNE/073cUL_Ty7Y0GvqH0wOSN7rbihbICRvGACLIBGAYYCw/w544-h306-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Badiyakot</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263632 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.12105505&lng=79.86312495000001&fid=0x39a73d907f2be7f3:0xc4f9c7e31d672c8&q=Badiyakot, Uttarakhand 263632&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8609738,
+                    29.9752407,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pothing",
+                "address": "Uttarakhand 263632",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Pothing\" src=\"//lh4.googleusercontent.com/-MAYRFdON0Hc/WZL3CezL_xI/AAAAAAAAAAg/itlHEDdZKwgkGHiGTwlUR8ffJWTas16vwCLIBGAYYCw/w408-h306-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Pothing</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263632 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.98087945&lng=79.8682199&fid=0x39a73a5be65bfb3b:0xc0535848fa3094a4&q=Pothing, Uttarakhand 263632&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0423856,
+                    29.9813151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Noukodi Road",
+                "address": "Uttarakhand 263633",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Noukodi Road\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Noukodi Road</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263633 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.9813151&lng=80.0423856&fid=0x39a72630842e97a7:0x3afe53ba09783f94&q=Noukodi Road, Uttarakhand 263633&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.097475,
+                    29.9166443,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lamaghar",
+                "address": "Uttarakhand 263633",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Lamaghar\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Lamaghar</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263633 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.917021350000002&lng=80.0985024&fid=0x39a729d646fd3259:0x79f2e7d39cde232c&q=Lamaghar, Uttarakhand 263633&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1062659,
+                    29.9259526,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gunthi",
+                "address": "Uttarakhand 263633",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Gunthi\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Gunthi</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263633 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.925114999999998&lng=80.11123005&fid=0x39a6d6331addfd13:0xaefd4ea8dba23ee6&q=Gunthi, Uttarakhand 263633&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0814292,
+                    30.100321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Keemu",
+                "address": "Uttarakhand",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Keemu\" src=\"//lh4.googleusercontent.com/-mX3w236qOxY/VwAhBuM-7aI/AAAAAAAAOkk/wg6VtSNRZ7otvB5oHr4WXJnPxD7eOiFogCJkC/w540-h306-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Keemu</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.099705&lng=80.0819&fid=0x39a7208eaf6e6419:0xfdca6f40b78cb419&q=Keemu, Uttarakhand&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.066065,
+                    30.0862909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gogina",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Gogina\" src=\"//lh5.googleusercontent.com/-r27zqXZuhEY/WON0ZZB6EmI/AAAAAAAANIw/fpSgNTWjG3UYLz0VEeeW6Es1LNg2chsygCLIB/w408-h725-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Gogina</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.086206249999996&lng=80.06681819999999&fid=0x39a720e842bce627:0x5124d97475afef99&q=Gogina, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0842224,
+                    30.05764870000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Syuli Dalari",
+                "address": "Uttarakhand",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Syuli Dalari\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Syuli Dalari</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.056175000000003&lng=80.08316500000001&fid=0x39a7274c40ad0623:0xbc0de871fa602c65&q=Syuli Dalari, Uttarakhand&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0520952,
+                    30.0251845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jaiti",
+                "address": "Uttarakhand 263633",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Jaiti\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Jaiti</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263633 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.025669500000003&lng=80.05134005&fid=0x39a72702b735afaf:0x88dd3b91d361f7b4&q=Jaiti, Uttarakhand 263633&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0339312,
+                    30.0080732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liti",
+                "address": "Uttarakhand 263633",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Liti\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Liti</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263633 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.010189999999998&lng=80.03662345000001&fid=0x39a7265f4ce8e6a9:0x425eb8f64db75116&q=Liti, Uttarakhand 263633&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9248669,
+                    30.1340654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wachham",
+                "address": "Uttarakhand",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Wachham\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Wachham</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.14656&lng=79.91824&fid=0x39a717f896795d37:0xb1faa2ea6093ffb9&q=Wachham, Uttarakhand&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7960523,
+                    30.0954986,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kuwari",
+                "address": "Uttarakhand",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Kuwari\" src=\"//lh5.googleusercontent.com/-z-YdFIB99JI/WJSTbGtWwOI/AAAAAAAAACg/8YnveLgEAX8-ByUNT_AXHkVX9gE7Lw3EwCLIB/w408-h306-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Kuwari</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.091605&lng=79.79913009999999&fid=0x39a73e5bb5c97399:0x4163e5eb95266a07&q=Kuwari, Uttarakhand&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8352767,
+                    30.0928415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kilpara",
+                "address": "Uttarakhand 263632",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Kilpara\" src=\"//lh5.googleusercontent.com/-gAMmt1gb7gg/WX2LTR7DMwI/AAAAAAAABCE/68B2X8wih2gWtH7Da-taonZaEK9K3ACNACLIBGAYYCw/w408-h306-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Kilpara</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263632 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.093335049999997&lng=79.8378299&fid=0x39a73dd17ec6c3cf:0x5213f39422a63e5&q=Kilpara, Uttarakhand 263632&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8800832,
+                    30.0505934,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Toli",
+                "address": "Uttarakhand 263632",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Toli\" src=\"//lh3.googleusercontent.com/-gIqf0-4nhEo/V4Nj4MH_qiI/AAAAAAAAAvs/IKzS8lybjOw-M35xU-kQ1Y8y1aKBycyQACLIB/w510-h306-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Toli</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263632 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.02427495&lng=79.87540489999999&fid=0x39a73b7576ef8d61:0xde26068ca713282b&q=Toli, Uttarakhand 263632&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87168369999999,
+                    30.0299339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dobar",
+                "address": "Uttarakhand 263632",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Dobar\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Dobar</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263632 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.031094999999993&lng=79.86974&fid=0x39a73b9c97b3c2ef:0x315075f17a3a6953&q=Dobar, Uttarakhand 263632&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9643835,
+                    30.0481543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Munar",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Munar\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Munar</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.04777325&lng=79.96408575&fid=0x39a7247e27e2832d:0xe8a1b8317abf1ef8&q=Munar, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9500477,
+                    30.0188202,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saling",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Saling\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Saling</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.01893&lng=79.95088995&fid=0x39a724ee4d2580ef:0x5425f04d5618cc23&q=Saling, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9486489,
+                    30.0372977,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Suding",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Suding\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Suding</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.0375943&lng=79.94891525&fid=0x39a7249094156e09:0x56e49592347f4ac3&q=Suding, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7659219,
+                    29.8322169,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baret",
+                "address": "Uttarakhand 263642",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Baret\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Baret</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263642 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.832324999999997&lng=79.76669995&fid=0x39a74912a38b58c9:0x99ca42d6e03d7a0f&q=Baret, Uttarakhand 263642&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.99199949999999,
+                    30.0020154,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kaflani",
+                "address": "Uttarakhand",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Kaflani\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Kaflani</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.000799999999998&lng=79.98284495&fid=0x39a725b69b2153ef:0x7a17b33a5269a256&q=Kaflani, Uttarakhand&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0493479,
+                    29.9735055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shama Dhura Market",
+                "address": "Bari Panyali, Uttarakhand 263633",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Shama Dhura Market\" src=\"//lh4.googleusercontent.com/-2RDhoRVtR6k/VvEkJRrwNaI/AAAAAAAAABA/aCrjgwgi_SMfO5Ctw92VvdVjxwFPQnMWACJkC/w408-h408-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Shama Dhura Market</span>  -  <span class=\"_rNc\">Market</span> </div> <div class=\"_pNc\"> <div> Bari Panyali, Uttarakhand 263633 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"_vNc\">4.0</span>    <span class=\"_wNc\"></span>    <span class=\"_wNc\"></span>    <span class=\"_wNc\"></span>    <span class=\"_wNc\"></span>  <span class=\"_M8b\"></span>     <span class=\"reviews\"> <a href=\"http://www.google.com/search?q=Shama+Dhura+Market,+Bari+Panyali,+Uttarakhand+263633&amp;ludocid=17962778483885814110#lrd=0x39a7262c401cb84f:0xf9489bdc370b315e,1\" target=\"_blank\"> <span class=\"review-count\">16 reviews</span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.973505499999998&lng=80.0493479&fid=0x39a7262c401cb84f:0xf9489bdc370b315e&q=Shama Dhura Market, Bari Panyali, Uttarakhand 263633&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8562826,
+                    29.7869742,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Syaldhunga",
+                "address": "Uttarakhand",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Syaldhunga\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Syaldhunga</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.787910099999994&lng=79.858395&fid=0x39a7333c301c543d:0x5aacb4298a897ffc&q=Syaldhunga, Uttarakhand&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9052768,
+                    30.0496817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Karmi",
+                "address": "Uttarakhand",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Karmi\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Karmi</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.047085000000003&lng=79.90680499999999&fid=0x39a73ca7f51ad747:0x99f46862dbdd5d1e&q=Karmi, Uttarakhand&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.96962769999999,
+                    30.0231813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sumgarh",
+                "address": "Uttarakhand 263679",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Sumgarh\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Sumgarh</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263679 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.022211499999994&lng=79.97222895&fid=0x39a7245c78cc2f57:0xd2b9f021fc378cec&q=Sumgarh, Uttarakhand 263679&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8436796,
+                    30.0449138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baghar",
+                "address": "Uttarakhand 263632",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Baghar\" src=\"//lh3.googleusercontent.com/--l2EXJ9a6t8/VyLOguHvldI/AAAAAAAAEGs/-yFs2-nZakcqAyBps2EMZvFkujUWtO-qgCJkC/w460-h306-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Baghar</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263632 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=30.04321495&lng=79.83947995&fid=0x39a73c07c009d30b:0x7423d24117d80e32&q=Baghar, Uttarakhand 263632&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.780638,
+                    29.8412335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Matiyoli",
+                "address": "Bageshwar, Uttarakhand 263642",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Matiyoli\" src=\"//lh3.googleusercontent.com/-KzecGFYLkl8/WLXu_N_43kI/AAAAAAAADcQ/C9V5Tolb5t0r9YjYrnruPhRFJm1l4fTSgCLIBGAYYCw/w408-h725-k-no\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Matiyoli</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Bageshwar, Uttarakhand 263642 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.841538749999998&lng=79.7793974&fid=0x39a735d1fe4e1de9:0x3c1737ff5af6218b&q=Matiyoli, Bageshwar, Uttarakhand 263642&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94025599999999,
+                    29.9136615,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Papoli",
+                "address": "Uttarakhand 263634",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Papoli\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Papoli</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263634 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.9140301&lng=79.93811&fid=0x39a72fcb108810d7:0x7178776e7cfe39b3&q=Papoli, Uttarakhand 263634&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7995552,
+                    29.896359,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Devalchaura",
+                "address": "Uttarakhand 263642",
+                "styleUrl": "#geocode5",
+                "styleHash": "71ae97cb",
+                "styleMapHash": {
+                    "normal": "#geocode4",
+                    "highlight": "#geocode9"
+                },
+                "description": "<!DOCTYPE html><html lang=\"en-IN\"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\"> </head> <body> <div class=\"_qNc\"> <div class=\"_ltd\"> <div class=\"_uNc\"> <img alt=\"Devalchaura\" src=\"https://www.google.com/earth/rpc/images/cleardot.gif\" width=\"100%\"> </div> </div> <br> <div> <span class=\"_yNc\">Devalchaura</span>  <span class=\"_rNc\"></span> </div> <div class=\"_pNc\"> <div> Uttarakhand 263642 </div> </div> <div class=\"_CVi\">   </div>  <div class=\"_xNc\"></div> <br>  <div class=\"_i8c\"></div> <div class=\"_DWd\"> <a href=\"#\" target=\"_blank\">  </a> </div> <br>  <span class=\"reviews\"> <a href=\"#\" target=\"_blank\"> <span class=\"review-count\"></span></a> </span> <div class=\"_bpd\">  </div> </div> </body> </html>",
+                "stroke": "#ffffff",
+                "stroke-opacity": 0,
+                "placepageUri": "https://www.google.com/earth/rpc/entity?lat=29.89601965&lng=79.79818574999999&fid=0x39a736e37b31ac3f:0x6407878f0fa4e9ab&q=Devalchaura, Uttarakhand 263642&hl=en&gl=in&client=earth-client&cv=6.2.2.6613&useragent=GoogleEarth/6.2.2.6613(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)",
+                "visibility": "0"
+            },
+            "id": "1.2.1"
+        }
+    ]
+}
