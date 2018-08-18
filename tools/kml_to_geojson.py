@@ -1,6 +1,8 @@
-# install togeojson before running this code
-def kml_to_geojson(filepath):
+# install togeojson from https://github.com/mapbox/togeojson before running this code
+import os,sys
+def kml_to_geojson(ipath,opath):
     kml_list=os.listdir(filepath)
+    '''
     only_names=[]
     for names in kml_list:
         name=os.path.splitext(os.path.basename(names))[0]
@@ -8,8 +10,17 @@ def kml_to_geojson(filepath):
     print(only_names)
     for names in only_names:
         os.system("togeojson"+" "+filepath+"/"+names+".kml"+">"+" "+names+".geojson")
-"""not working"""
+    '''
 def clean_filenames(filepath):
-    for filename in filepath:
-        print filename
-        os.rename(filename, filename.replace(" ", "_"))
+    for filename in os.listdir(filepath):
+        ipath=os.path.join(filepath,filename)
+        opath=ipath.replace(" ","_")
+        os.rename(ipath,opath)
+
+
+'''
+if __name__=="__main__":
+    ipath=sys.argv[1]
+    opath=sys.argv[2]
+    clean_filenames(filepath)
+'''    
