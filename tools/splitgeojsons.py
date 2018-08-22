@@ -1,4 +1,5 @@
-def get_sublayers_as_geojson(inpath):
+import os,json
+def get_sublayers_as_geojson(inpath,outpath):
     filelist=os.listdir(inpath)
     for filename in filelist:
         print filename
